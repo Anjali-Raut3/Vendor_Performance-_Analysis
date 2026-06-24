@@ -15,6 +15,8 @@ Identify key risk indicators, such as missed payments and high credit utilizatio
 Develop interactive dashboards for vendor performance, sales trends, and inventory levels
 Generate actionable insights for procurement optimization and cost reduction
 Enable real-time reporting via Power BI Service
+
+
 📂 Dataset
 The full dataset is hosted on Kaggle due to GitHub size limits.
 
@@ -32,6 +34,9 @@ end_inventory.csv
 purchase_prices.csv
 vendor_invoice.csv
 vendor_sales_summary.csv
+
+
+
 📁 Project Structure
 Vendor-Performance-Analysis/
 │
