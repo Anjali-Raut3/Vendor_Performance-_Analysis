@@ -1,10 +1,2 @@
 # Vendor_Performance-_Analysis
 This project focuses on evaluating vendor performance through data-driven insights. It involves cleaning and analyzing procurement datasets, identifying top-performing vendors, and visualizing key metrics such as purchase contribution, order frequency, cost efficiency, and inventory trends. The insights generated support strategic procurement decisions and business intelligence initiatives.
-
-🛠 Technologies Used
-Python: Data cleaning, EDA, predictive modeling
-SQLite: Database management
-Power BI: Interactive dashboards and visualizations
-Excel: Data preprocessing and analysis
-Figma: Dashboard prototyping
-Git/GitHub: Version control
