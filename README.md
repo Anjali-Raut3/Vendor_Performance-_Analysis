@@ -52,6 +52,8 @@ Vendor-Performance-Analysis/
 ├── inventory.db           # SQLite database
 └── README.md              # Project documentation
 ⚡ Usage
+
+
 Download the dataset from Kaggle (see Dataset section).
 Use scripts/ for Python-based analysis or open vendor_Performance.pbix in Power BI.
 Explore interactive dashboards to gain actionable insights on vendor performance.
